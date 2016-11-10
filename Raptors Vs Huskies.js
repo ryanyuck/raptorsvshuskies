@@ -851,7 +851,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,122,73);
 
 	this.instance_1 = new lib.rulesrevisedai("synched",0);
 	this.instance_1.parent = this;
-	this.instance_1.setTransform(52,-160.9,1,1,0,0,0,139,211);
+	this.instance_1.setTransform(51,-160.9,1,1,0,0,0,139,211);
 
 	this.instance_2 = new lib.ruleboxai("synched",0);
 	this.instance_2.parent = this;
